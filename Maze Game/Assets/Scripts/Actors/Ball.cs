@@ -19,7 +19,6 @@ public class Ball : Actor, IStarter, IFixedUpdater
     public void Initialize()
     {
         _rigidbody = GetComponent<Rigidbody>();
-
         isOnControl = true;
 
         Calibrate();

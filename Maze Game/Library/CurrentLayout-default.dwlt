@@ -444,9 +444,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fe2e0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4efbffff
+      m_ExpandedIDs: 72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -714,20 +714,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Actors
+    - Assets/Animations
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets/Scripts/Actors
+  - Assets/Animations
   m_LastFoldersGridSize: 76
   m_LastProjectPath: C:\Users\andri\Repository\Maze-Game\Maze Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 30360000
-    m_LastClickedID: 13872
-    m_ExpandedIDs: 000000001e3600002e360000
+    m_SelectedIDs: 24360000
+    m_LastClickedID: 13860
+    m_ExpandedIDs: 000000001e360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
